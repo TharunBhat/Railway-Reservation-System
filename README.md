@@ -18,6 +18,14 @@ A simple Railway Reservation System for the SDLC assignment using Jira, Confluen
 Add your Jira board link here:
 👉 [Jira Board](PASTE_YOUR_LINK_HERE)
 
+
+## Project Links
+
+- [Jira Board (Tasks & Issues)](https://tharunbhatt-1764247086637.atlassian.net/jira/software/projects/SCRUM/summary)
+- [Confluence Project Documentation](https://tharunbhatt.atlassian.net/wiki/spaces/~71202013be0d8116c845bfb09d3bcc15629390/pages/229508/Railway+Reservation+System+-+Project+Plan)
+- [GitHub Repository](https://github.com/TharunBhat/Railway-Reservation-System)
+
+
 ## Confluence Documentation
 Add your Confluence link here:
 👉 [Confluence Project Page](PASTE_YOUR_LINK_HERE)
